@@ -20,3 +20,5 @@ val Gradient3 = Color(0x9AD40324)
 val WorkoutGrad1 = Color(0XFFD40324)
 val WorkoutGrad2 = Color.Black
 val WorkoutGrad3 = Color(0XFF838BC5)
+
+val SidePanelBackground = Color(0xFF262626)
